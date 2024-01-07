@@ -3,7 +3,7 @@
 Welcome to the `discord` repository! This is a space where members of our Discord community can propose changes, discuss new ideas, and collaborate to improve our Discord server.
 
 ## How It Works
-- **Propose a Change**: Want to see something new or different on our Discord? Create a new [issue](link-to-issues) to start the discussion.
+- **Propose a Change**: Want to see something new or different on our Discord? Create a new [issue](https://github.com/ethereumclassic/discord/issues) to start the discussion.
 - **Participate in Discussions**: Share your thoughts and feedback on existing proposals by commenting on issues.
 - **Vote on Ideas**: Use reactions to vote on ideas you support.
 - **Stay Updated**: Keep track of what's being discussed and what's decided.
