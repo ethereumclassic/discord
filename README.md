@@ -10,7 +10,7 @@ Welcome to the `discord` repository! This is a space where members of our Discor
 
 ## Guidelines
 - Be respectful and constructive in your discussions.
-- Follow our [Code of Conduct](link-to-code-of-conduct).
+- Follow our [Code of Conduct](https://github.com/ethereumclassic/discord/blob/main/code-of-conduct.md).
 - Check existing issues before creating a new one to avoid duplicates.
 
 ## Contribution Process
@@ -20,9 +20,9 @@ Welcome to the `discord` repository! This is a space where members of our Discor
 4. **Implementation**: Approved changes will be implemented in our Discord server.
 
 ## Resources
-- [Discord Server Link](your-discord-link)
-- [Contribution Guidelines](link-to-contribution-guidelines)
-- [Code of Conduct](link-to-code-of-conduct)
+- [Discord Server Link](https://www.ethereumclassic.org/discord)
+- [Contribution Guidelines](https://github.com/ethereumclassic/discord/pulls)
+- [Code of Conduct](https://github.com/ethereumclassic/discord/blob/main/code-of-conduct.md)
 
 We value your input and look forward to your contributions!
 
